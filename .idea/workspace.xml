@@ -10,7 +10,10 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0a9ee140-f078-4040-8d81-d29d5ddda9d4" name="Default Changelist" comment="" />
+    <list default="true" id="0a9ee140-f078-4040-8d81-d29d5ddda9d4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/HourZeroDev.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/HourZeroDev.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,7 +29,7 @@
     <option name="RESET_MODE" value="MIXED" />
   </component>
   <component name="ProjectId" id="1giZ9pf1YBuPqYLatLQyPGzYjDw" />
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -149,6 +152,7 @@
       <option name="presentableId" value="Default" />
       <updated>1598599225061</updated>
       <workItem from="1598599226153" duration="2174000" />
+      <workItem from="1598602201798" duration="604000" />
     </task>
     <servers />
   </component>
@@ -171,6 +175,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
