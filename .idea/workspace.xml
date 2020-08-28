@@ -33,8 +33,10 @@
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
@@ -152,7 +154,7 @@
       <option name="presentableId" value="Default" />
       <updated>1598599225061</updated>
       <workItem from="1598599226153" duration="2174000" />
-      <workItem from="1598602201798" duration="604000" />
+      <workItem from="1598602201798" duration="2125000" />
     </task>
     <servers />
   </component>
@@ -181,6 +183,10 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="-1480" y="429" key="#Scopes" timestamp="1598604330610">
+      <screen x="-2560" y="-156" width="2560" height="1440" />
+    </state>
+    <state x="-1480" y="429" key="#Scopes/-2560.-156.2560.1440/0.0.1792.1120@-2560.-156.2560.1440" timestamp="1598604330610" />
     <state width="2006" height="358" key="GridCell.Tab.0.bottom" timestamp="1598602196491">
       <screen x="0" y="0" width="2048" height="1280" />
     </state>
